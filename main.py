@@ -2,7 +2,8 @@ import random
 from flask import Flask
 app = Flask(__name__)
 from quotes import quotes
-
+import gunicorn
+print(gunicorn.version_info)
 @app.get("/")
 def welcome_text():
     return {"Text":"Welcome in SelfBetterAPI"}
