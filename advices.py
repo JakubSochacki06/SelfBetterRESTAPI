@@ -8,7 +8,17 @@ angryAdvices = [
 "Use positive self-talk and affirmations to redirect your thoughts and emotions.",
 "Find a creative outlet such as painting, writing, or playing music to express and release your anger.",
 "Practice forgiveness to let go of any grudges or resentments that are fueling your anger.",
-"Engage in relaxation techniques like meditation or yoga to reduce stress and anger."
+"Engage in relaxation techniques like meditation or yoga to reduce stress and anger.",
+"Remove yourself from the source of your anger if possible.",
+"Listen to calming music or sounds to soothe your emotions.",
+"Engage in a physical activity like punching a pillow or screaming into a pillow to release pent-up anger.",
+"Write a letter expressing your anger, but do not send it. Use it as a way to vent your emotions.",
+"Challenge your thoughts and consider alternative perspectives to manage your anger.",
+"Practice empathy and try to understand the other person's point of view.",
+"Take a break and engage in activities that bring you joy and relaxation.",
+"Avoid engaging in aggressive or confrontational behaviors that may escalate the situation.",
+"Learn and implement healthy coping mechanisms to manage anger in the long term.",
+"Consider seeking professional help or counseling if anger becomes a recurring issue."
 ]
 
 sadAdvices = [
@@ -21,7 +31,17 @@ sadAdvices = [
 "Surround yourself with positive influences such as uplifting music, books, or movies.",
 "Consider seeking professional help or counseling if your sadness persists or becomes overwhelming.",
 "Engage in acts of kindness towards others, as helping can also bring a sense of fulfillment.",
-"Remember that sadness is a natural part of life, and it will eventually pass."
+"Remember that sadness is a natural part of life, and it will eventually pass.",
+"Allow yourself to cry and release the pent-up emotions.",
+"Engage in activities that bring you comfort and solace, such as taking a warm bath or cuddling with a pet.",
+"Reach out to a support group or online community where you can share your feelings and receive support.",
+"Practice self-care by engaging in activities that nourish your soul, such as reading a favorite book or listening to soothing music.",
+"Surround yourself with nature and take a walk or spend time in a peaceful outdoor setting.",
+"Seek professional help if your sadness persists or starts interfering with your daily life.",
+"Create a gratitude journal and write down things you are grateful for to shift your focus towards positivity.",
+"Engage in mindfulness or meditation practices to bring calmness and balance to your emotions.",
+"Try to identify the root causes of your sadness and take steps to address them.",
+"Allow yourself to feel the sadness fully, but also remind yourself that brighter days will come."
 ]
 
 mixedAdvices = [
@@ -34,7 +54,17 @@ mixedAdvices = [
 "Seek professional help or therapy if your mixed emotions are causing significant distress.",
 "Engage in mindfulness or meditation exercises to calm your mind and gain clarity.",
 "Focus on the positive aspects of your situation and look for solutions to address any negative emotions.",
-"Give yourself permission to take time to process and navigate your mixed emotions."
+"Give yourself permission to take time to process and navigate your mixed emotions.",
+"Engage in activities that allow you to express and explore your various emotions, such as art or dance.",
+"Practice self-compassion and remind yourself that it's okay to have conflicting emotions.",
+"Seek support from a counselor or therapist who can help you navigate and understand your mixed emotions.",
+"Engage in deep breathing exercises to help regulate your emotions and find balance.",
+"Journal about each individual emotion you're experiencing and try to identify their triggers.",
+"Practice self-reflection and introspection to gain insight into your mixed emotions.",
+"Engage in activities that bring you joy and allow yourself to fully experience the positive emotions.",
+"Find healthy outlets for your emotions, such as talking to a supportive friend or engaging in physical activity.",
+"Be patient with yourself as you navigate through your mixed emotions, understanding that it takes time.",
+"Remember that mixed emotions are a natural part of being human, and it's okay to feel a range of emotions at once."
 ]
 
 neutralAdvices = [
@@ -47,7 +77,17 @@ neutralAdvices = [
 "Engage in self-reflection and introspection to gain a deeper understanding of yourself.",
 "Connect with others and engage in meaningful conversations or activities.",
 "Find balance in your daily routine by incorporating self-care and leisure activities.",
-"Allow yourself to simply be and embrace the neutrality of your emotions."
+"Allow yourself to simply be and embrace the neutrality of your emotions.",
+"Take time for yourself and engage in activities that recharge and rejuvenate you.",
+"Try new experiences and step out of your comfort zone to stimulate a sense of curiosity and excitement.",
+"Practice self-acceptance and embrace the present moment as it is, without judgment.",
+"Engage in mindfulness practices such as meditation or deep breathing to cultivate a sense of inner peace.",
+"Create a relaxing environment at home with soothing music, candles, or aromatherapy.",
+"Focus on self-improvement and set goals that align with your values and aspirations.",
+"Engage in activities that promote self-care and prioritize your well-being, such as taking a bath or practicing yoga.",
+"Disconnect from technology for a designated period each day and engage in offline activities that bring you joy.",
+"Explore your creative side through art, music, writing, or any other form of self-expression.",
+"Embrace the neutrality of your emotions and use it as an opportunity to reflect and gain clarity in your life."
 ]
 
 happyAdvices = [
@@ -56,9 +96,19 @@ happyAdvices = [
 "Engage in acts of kindness and spread happiness to others.",
 "Surround yourself with positive and uplifting individuals who share your joy.",
 "Celebrate your achievements, big or small, and give yourself credit for your accomplishments.",
-"Engage in activities that make you laugh and bring a sense of lightheartedness.",
-"Listen to uplifting music or watch feel-good movies to enhance your happiness.",
-"Practice self-care by indulging in activities that make you feel pampered and loved.",
-"Engage in physical exercise to release endorphins and boost your overall well-being.",
-"Embrace and appreciate the happiness you feel, knowing that it's a valuable experience."
+"Engage in activities that bring you pleasure and make you feel alive.",
+"Practice self-care by indulging in activities that nourish your mind, body, and soul.",
+"Share your happiness with loved ones by spending quality time together.",
+"Engage in hobbies or activities that you're passionate about and bring you a sense of fulfillment.",
+"Practice mindfulness by being fully present and appreciating the little moments of happiness.",
+"Celebrate the success of others and offer genuine compliments to uplift their spirits.",
+"Create a gratitude jar and write down moments of happiness and gratitude to revisit during challenging times.",
+"Engage in positive affirmations and remind yourself of your worth and abilities.",
+"Surround yourself with positive affirmations, quotes, or inspiring visuals that reinforce your happiness.",
+"Embrace laughter and humor by watching comedies or engaging in activities that make you laugh.",
+"Engage in acts of self-expression, such as dancing, singing, or creating art, to amplify your happiness.",
+"Seek opportunities for personal growth and learning, as they can contribute to long-lasting happiness.",
+"Practice random acts of kindness to bring joy not only to yourself but also to others.",
+"Capture moments of happiness through photography or journaling to revisit during challenging times.",
+"Embrace the feeling of happiness without guilt or reservation, allowing yourself to fully experience and enjoy it."
 ]
